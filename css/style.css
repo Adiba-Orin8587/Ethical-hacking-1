@@ -1,0 +1,42 @@
+body {
+    scroll-behavior: smooth;
+}
+
+
+nav {
+    box-shadow: rgba(32, 32, 32, 0.198) 0px 3px 8px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.nav-link {
+    color: rgb(59, 58, 58);
+    font-size: 17px;
+    font-weight: 700;
+}
+
+.nav-link:hover {
+    background-color: rgba(67, 67, 67, 0.177);
+    letter-spacing: 1px;
+    transition: all 0.2s ease-in-out;
+    border-radius: 10px;
+}
+
+.bannar {
+    box-shadow: rgba(32, 32, 32, 0.292) 0px 3px 8px;
+}
+
+.bg-0 {
+    background-color: transparent;
+    border: 0;
+}
+
+.card-img-top {
+    height: 400px;
+}
+
+.card {
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
